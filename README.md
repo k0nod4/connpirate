@@ -1,2 +1,2 @@
 # connpirate
-Fetch events from connpass and send notifications via LINE WORKS.
+Fetch events from connpass and send notifications via LINE.
